@@ -2,7 +2,7 @@
   "name": "task",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/husam272/Task",
+  "homepage":"https://github.io/husam272/Task",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
